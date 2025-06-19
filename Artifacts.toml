@@ -1,0 +1,65 @@
+[[procps]]
+arch = "aarch64"
+git-tree-sha1 = "260e220c6dd9bf59fc5c487bc7e1efed4c58101f"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "e49641d4cd81ccab42a52b2e0fcbf8b8c459b9062daf1cd16dd8377d7d5caa17"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.aarch64-linux-gnu.tar.gz"
+[[procps]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d34addea9400d2bf7c5ca5ff2bda2a351016b02d"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "54fd9236c9f81cc96f0ecedfb2fb79e3df7e2d645d098bb7c89a86b6da5c7766"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.armv6l-linux-gnueabihf.tar.gz"
+[[procps]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6369865f648ec84f5b4e62faf069e6522bbb1e37"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "e108525235e77c1755bef76764854389b030c28730bcc88901df6489d2acb73a"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.armv7l-linux-gnueabihf.tar.gz"
+[[procps]]
+arch = "i686"
+git-tree-sha1 = "21e8e283899072afb8545c2507d18ae0a47e7271"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "160730e63e8e5af0be695f4c418e3e06e986204e756c7bb603c260df5ae2a0fe"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.i686-linux-gnu.tar.gz"
+[[procps]]
+arch = "powerpc64le"
+git-tree-sha1 = "08693f45e89fe68bc558c67f0a9e2bd697440cef"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "45fa7af3ffa5a55cea4251f9bf5a3c471ab0c8992d27cc2bf3261b1c2efba0e9"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.powerpc64le-linux-gnu.tar.gz"
+[[procps]]
+arch = "riscv64"
+git-tree-sha1 = "968c2a56df8ae57f48a828035a4bd0f953d275a4"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "c39dccaddb2988f2a2b4759a6fde471c3171993bc4d38242b619eb2300fe5bb1"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.riscv64-linux-gnu.tar.gz"
+[[procps]]
+arch = "x86_64"
+git-tree-sha1 = "06efd01aa47996d1ea1548dd775c4ef88efd3358"
+libc = "glibc"
+os = "linux"
+
+    [[procps.download]]
+    sha256 = "27c75f3028ba8a5b32accf856671e5cd0c63c85f6e3008d3195f4e267260a4d5"
+    url = "https://github.com/JuliaBinaryWrappers/procps_jll.jl/releases/download/procps-v4.0.5+0/procps.v4.0.5.x86_64-linux-gnu.tar.gz"
